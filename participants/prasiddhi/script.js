@@ -19,7 +19,8 @@ const answers = [
     "My sources say no.",
     "Outlook not so good.",
     "Very doubtful.",
-    "Looks good"
+    "Looks good",
+    "WOW!"
 ];
 
 const answerDisplay = document.getElementById('answer');
